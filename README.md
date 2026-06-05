@@ -20,7 +20,6 @@ The dataset contains global EV statistics with the following attributes:
 * **Unit** – Measurement unit  
 * **Value** – Numerical value of the metric  
 
----
 
 ## Business Objectives
 
@@ -52,7 +51,6 @@ The dataset contains global EV statistics with the following attributes:
 * Identify peak years for sales and stock.  
 * Detect significant category-level growth spikes.  
 
----
 
 ## Dashboard Features
 
@@ -86,7 +84,6 @@ The dataset contains global EV statistics with the following attributes:
 * Mode  
 * Year  
 
----
 
 ## Key Insights
 
@@ -97,7 +94,7 @@ The dataset contains global EV statistics with the following attributes:
 * EV energy consumption has grown alongside vehicle adoption.  
 * Strong growth is observed in recent years due to increased electrification initiatives.  
 
----
+
 
 ## Tools & Technologies
 
@@ -108,4 +105,3 @@ The dataset contains global EV statistics with the following attributes:
 * Data Visualization  
 
 
----
